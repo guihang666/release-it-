@@ -1,3 +1,5 @@
 
 
+## [1.0.3](https://github.com/guihang666/release-it-test/compare/1.0.2...1.0.3) (2022-11-21)
+
 ## 1.0.2 (2022-11-21)
